@@ -17,3 +17,29 @@ body {
   color: white;
   font-size: 18px;
 }
+
+.main {
+  text-align: center;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.second_banner {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  color: white;
+  text-align: center;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.main h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.main p {
+  font-size: 14px;
+}
